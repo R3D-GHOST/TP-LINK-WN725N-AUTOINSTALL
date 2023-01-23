@@ -1,5 +1,5 @@
 #/bin/bash/
-echo "Script bash tp-link wn725n"
+echo "Script bash tp-link wn72Xn"
 #banner
 echo "
  ____  _____ ____         ____ _   _  ___  ____ _____
